@@ -1,4 +1,4 @@
-package com.OOP;
+package OOP.OOP;
 
 public class Encaps1 {
       private String s;
